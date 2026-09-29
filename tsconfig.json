@@ -10,5 +10,4 @@
     "types": ["node", "jest"]
   },
   "include": ["src", "server.ts", "tests"]
-  
 }
